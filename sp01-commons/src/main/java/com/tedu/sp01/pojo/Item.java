@@ -12,11 +12,11 @@ import lombok.experimental.Accessors;
 
 public class Item {
 
-//1111111111111111111111111
+
 
 	private Integer id;
 	private String name;
 	private Integer number;
-	//22222332211111111111222211111111
+	
 }
 
